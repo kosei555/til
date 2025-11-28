@@ -1,6 +1,3 @@
 TIL (Today I Learned)
-This repository is my daily report of what I've learned.
-It may include mistakes.
-
 このリポジトリは私が何を勉強したかをまとめたものです。
-間違いを含む可能性があります。
+間違った情報も含まれている可能性があるので参考にする際は自己責任でお願いします。
